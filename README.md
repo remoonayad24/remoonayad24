@@ -19,13 +19,6 @@
 
 
 
-<p align="left">
- <a href="http://wa.me/+201064255940/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Rashad_Awad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rashad-awad-810bb9228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rashad_Awad" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100027260630628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rashad_Awad" height="30" width="40" /></a>
- <a href="https://twitter.com/EslmanRashad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rashad_Awad" height="30" width="40" /></a>
-   <a href="https://github.com/RashadAwad14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rashad_Awad" height="30" width="40" /></a>
-</p>
 
 <hr>
 
@@ -42,7 +35,7 @@ and raise my standards I am able to deal with a team learn and benefit from thos
   
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=RashadAwad14&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RashadAwad14/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/RemoonAyad/count.svg?"  />
 </div>
 
 ###
@@ -87,5 +80,3 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&username=remoonayad"  alt="Remoon'a GitHub Stats "  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&layout=compact&username=remoonayad" height="195"  alt="Remoon'a Langs Stats"  />
 </div>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
