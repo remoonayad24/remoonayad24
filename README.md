@@ -66,11 +66,6 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 </p>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remoonayad&show_icons=true&locale=en&layout=compact" alt="remoonayad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=remoonayad&show_icons=true&locale=en" alt="remoonayad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=remoonayad&" alt="remoonayad" /></p>
 
 ## Github Stats:
 <div align="center">
