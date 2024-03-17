@@ -76,7 +76,3 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remoonayad&theme=github_dark"/>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&username=remoonayad"  alt="Remoon'a GitHub Stats "  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&layout=compact&username=remoonayad" height="195"  alt="Remoon'a Langs Stats"  />
-</div>
