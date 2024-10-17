@@ -4,7 +4,7 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Graduate+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
 </p>
 
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
